@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solomos-vagkou.github.io/sitemap.xml
